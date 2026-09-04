@@ -1,0 +1,11 @@
+{
+  "name": "visual-workflow-agent",
+  "version": "0.0.3",
+  "description": "Recovered runtime source for a Windows physical mouse and keyboard operation recorder.",
+  "private": false,
+  "sourceStatus": "recovered-from-electron-package",
+  "dependencies": {
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  }
+}
